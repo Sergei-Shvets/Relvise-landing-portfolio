@@ -1,4 +1,4 @@
-# Relvise-landing-portfolio
+# Relvise (landing page for portfolio)
 This is the simple landing page created with HTML and CSS (flex).
 <p>This is an educational project, shows basic skills in layout of web pages.</p>
 
